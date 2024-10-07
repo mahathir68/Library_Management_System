@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This is a basic and simple Library Management System I developed with a partner in Database Management System Lab, back in undergraduate studies. The system allows library authorities to manage books, users, and librarians by entering relevant information into temporary databases. It supports basic operations like update, delete, and display, as well as tracking books borrowed by users and managed by librarians.
+This is a basic and simple Library Management System I developed with a partner in Database Management System Lab, back in undergraduate studies. The system allows library authorities to manage books, users, and librarians by entering relevant information into  database. It supports basic operations like update, delete, and display, as well as tracking books borrowed by users and managed by librarians.
 
 ### Group participants:
 -Mahathir F Nabil and Faria Afroz
@@ -16,7 +16,7 @@ This is a basic and simple Library Management System I developed with a partner 
 - **Book Management**: Allows the librarian to enter, update, delete, and display book information.
 - **User Management**: Facilitates the management of users who borrow books.
 - **Borrowing System**: Tracks books borrowed by users.
-- **Database Management**: Information on books, users, and librarians is stored in separate databases.
+- **Database Management**: Information of books, users, and librarians is stored in separate tables.
 
 ---
 
