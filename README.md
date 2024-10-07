@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This is a basic and simple Library Management System developed, I developed using HTML and PHP, with a partner in Database Management System Lab, back in undergraduate studies. The system allows library authorities to manage books, users, and librarians by entering relevant information into temporary databases. It supports basic operations like update, delete, and display, as well as tracking books borrowed by users and managed by librarians.
+This is a basic and simple Library Management System I developed with a partner in Database Management System Lab, back in undergraduate studies. The system allows library authorities to manage books, users, and librarians by entering relevant information into temporary databases. It supports basic operations like update, delete, and display, as well as tracking books borrowed by users and managed by librarians.
 
 ### Group participants:
 -Mahathir F Nabil and Faria Afroz
